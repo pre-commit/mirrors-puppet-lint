@@ -4,6 +4,7 @@ puppet-lint mirror
 Mirror of puppet-lint gem for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
+
 For puppet-lint: see http://puppet-lint.com
 
 
