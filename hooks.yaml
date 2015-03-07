@@ -1,0 +1,5 @@
+-   id: puppet-lint
+    name: puppet-lint
+    entry: puppet-lint
+    language: ruby
+    files: \.pp$
