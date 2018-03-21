@@ -12,7 +12,7 @@ For puppet-lint: see http://puppet-lint.com
 
 Add this to your `.pre-commit-config.yaml`:
 
-    -   repo: git://github.com/pre-commit/mirrors-puppet-lint
+    -   repo: https://github.com/pre-commit/mirrors-puppet-lint
         sha: ''  # Use the sha you want to point at
         hooks:
         -   id: puppet-lint
