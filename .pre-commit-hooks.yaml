@@ -2,6 +2,6 @@
     name: puppet-lint
     entry: puppet-lint
     language: ruby
-    files: \.pp$
+    'types': [puppet]
     args: []
-
+    additional_dependencies: []
