@@ -1,8 +1,10 @@
 -   id: puppet-lint
     name: puppet-lint
+    description: ''
     entry: puppet-lint
     language: ruby
     'types': [puppet]
     args: []
     require_serial: false
     additional_dependencies: []
+    minimum_pre_commit_version: '0'
